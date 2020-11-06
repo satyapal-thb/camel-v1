@@ -1,0 +1,4 @@
+com\org\apache\camel_spring_first\ftp\MyFtpServerRouteBuilder.class
+com\org\apache\camel_spring_first\App.class
+com\org\apache\camel_spring_first\ftp\MyFtpClientRouteBuilder.class
+com\org\apache\camel_spring_first\App$1.class
